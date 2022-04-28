@@ -1,7 +1,7 @@
 <!--
  * @Author: cos
  * @Date: 2022-04-17 00:47:52
- * @LastEditTime: 2022-04-28 12:51:39
+ * @LastEditTime: 2022-04-28 20:26:52
  * @LastEditors: cos
  * @Description: 
  * @FilePath: \imgBed\README.md
@@ -29,3 +29,7 @@
 - ![20220428ppt-7](https://cdn.jsdelivr.net/gh/yusixian/imgBed/img/easy-mooc-maker/20220428ppt-7.png)
 
 - ![20220428ppt-8](https://cdn.jsdelivr.net/gh/yusixian/imgBed/img/easy-mooc-maker/20220428ppt-8.png)
+
+- ![20220428img-1](https://cdn.jsdelivr.net/gh/yusixian/imgBed/img/easy-mooc-maker/20220428img-1.png)
+
+- ![20220428img-2](https://cdn.jsdelivr.net/gh/yusixian/imgBed/img/easy-mooc-maker/20220428img-2.png)
