@@ -1,15 +1,9 @@
-<!--
- * @Author: cos
- * @Date: 2022-04-17 00:47:52
- * @LastEditTime: 2022-04-28 20:26:52
- * @LastEditors: cos
- * @Description: 
- * @FilePath: \imgBed\README.md
--->
 # imgBed
 图床，存放图片
 
 ## @latest
+- https://fastly.jsdelivr.net/gh/yusixian/imgBed@latest/img/cos_blog/101772766_p0.webp
+- https://fastly.jsdelivr.net/gh/yusixian/imgBed@latest/img/cos_blog/siteshot.png
 - https://fastly.jsdelivr.net/gh/yusixian/imgBed@latest/img/cos_blog/100105818_p0.webp
 - https://fastly.jsdelivr.net/gh/yusixian/imgBed@latest/img/cos_blog/100483120_p0.webp
 - https://fastly.jsdelivr.net/gh/yusixian/imgBed@latest/img/cos_blog/100664563_p0.webp
@@ -38,6 +32,12 @@
 - https://fastly.jsdelivr.net/gh/yusixian/imgBed@latest/img/cos_blog/99231621_p3.webp
 - https://fastly.jsdelivr.net/gh/yusixian/imgBed@latest/img/cos_blog/99232275_p0.webp
 - https://fastly.jsdelivr.net/gh/yusixian/imgBed@latest/img/cos_blog/99890559_p0.webp
+
+## @1.2.3
+add https://fastly.jsdelivr.net/gh/yusixian/imgBed@1.2.3/img/cos_blog/101772766_p0.webp
+
+## @1.2.2
+add https://fastly.jsdelivr.net/gh/yusixian/imgBed@1.2.2/img/cos_blog/siteshot.png
 
 ## @1.2.1
 - https://fastly.jsdelivr.net/gh/yusixian/imgBed@1.2.1/img/cos_blog/100105818_p0.webp
